@@ -45,3 +45,7 @@ https://docs.docker.com/storage/volumes/#remove-anonymous-volumes
 `docker rm -v`
 
 ---
+
+显示容器使用的系统资源
+
+`docker stats`
