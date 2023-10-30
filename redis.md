@@ -1,0 +1,1 @@
+- `redis-cli monitor` 实时显示正在执行的命令  
