@@ -56,3 +56,8 @@ https://docs.docker.com/storage/volumes/#remove-anonymous-volumes
 
 `docker update --memory 2048m --memory-swap -1 gitlab`
 
+---
+
+修改容器cpu限制
+
+`docker update --cpus 4 gitlab`
