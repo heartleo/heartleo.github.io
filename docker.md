@@ -49,3 +49,10 @@ https://docs.docker.com/storage/volumes/#remove-anonymous-volumes
 显示容器使用的系统资源
 
 `docker stats`
+
+---
+
+修改容器内存限制
+
+`docker update --memory 2048m --memory-swap -1 gitlab`
+
